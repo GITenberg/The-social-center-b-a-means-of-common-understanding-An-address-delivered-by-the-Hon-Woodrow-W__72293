@@ -1,0 +1,42 @@
+_repo: The-social-center-b-a-means-of-common-understanding-An-address-delivered-by-the-Hon-Woodrow-W__72293
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wilson, Woodrow
+    aliases:
+    - United States President (1913-1921)
+    - Wilson, Thomas Woodrow
+    - Wilson, T. W. (Thomas Woodrow)
+    birthdate: 1856
+    deathdate: 1924
+    gutenberg_agent_id: '1689'
+    url: http://www.gutenberg.org/2009/agents/1689
+    wikipedia: https://en.wikipedia.org/wiki/Woodrow_Wilson
+description: ''
+gutenberg_issued: '2023-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72293'
+  lccn: e12000977
+language: en
+pgterms:marc904: https://archive.org/details/socialcentermean00wils/page/n1/mode/2up
+pgterms:marc905: 20210908124226wilson
+pgterms:marc906: '1894'
+pgterms:marc907: US
+production_note: Bob Taylor, Charlene Taylor and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.
+publication_note: $aMadison :$bThe University of Wisconsin, $c1911.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Bulletin of the University of Wisconsin, serial no. 470; General series,
+  no. 306
+subjects:
+- !lcsh 'Recreation centers'
+- !lcc 'LC'
+- GITenberg
+title: 'The social center : $b a means of common understanding. An address delivered
+  by the Hon. Woodrow Wilson, Governor of New Jersey, before the First National Conference
+  on Civic and Social Center Development, at Madison, Wis., October 25, 1911'
+url: http://www.gutenberg.org/ebooks/72293
